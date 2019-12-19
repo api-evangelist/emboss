@@ -1,0 +1,42 @@
+{
+    "name": "EMBOSS",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/EmblEbi-logo.jpg",
+    "tags": [
+        "api provider",
+        "bioinformatics",
+        "dna",
+        "dna visualization tool",
+        "genetics",
+        "have api",
+        "social",
+        "voip"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/emboss\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EMBOSS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/EmblEbi-logo.jpg",
+            "humanURL": "http:\/\/www.ebi.ac.uk\/Tools\/webservices\/services\/psa\/emboss_water_soap",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/emboss-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ebi.ac.uk\/Tools\/webservices\/services\/psa\/emboss_water_soap"
+        }
+    ]
+}
